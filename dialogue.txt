@@ -1,0 +1,422 @@
+Sveicināts uz tiltiņa!
+Šeit atrodas Pērles {u}ECDIS{/u} - elektroniskā karšu sistēma, kas palīdz mums noteikt kuģa atrašanās vietu un kursu.
+Tā strādā ciešā saistībā ar {u}GNSS{/u} - globālās navigācijas satelītu sistēmu. Tās datiem kuģi uzticas visā pasaulē.
+Arī mums plaši pazīstamais GPS - globālās pozicionēšanas sistēmas signāls ir viena no GNSS frekvencēm. Pastāv arī citas GNSS sistēmas: Galileo, GLONASS un BeiDou.
+Dažādos signālus var pārbaudīt ar daudzfrekvenču GNSS uztvērējiem, kas spēj vienlaikus uztvert vairākus signālus. Noderīgi, ja kāds no signāliem uzrāda aizdomīgus datus.
+Tad arī pastāv {u}RADAR{/u} - radiolokācijas sistēma, kas izmanto radio viļņus un attēlo kuģa apkārtni.
+Mūsdienu kuģos šos un vēl citus apkopo vienotā saskarnē - ECDIS.
+Taču pastāv arī tradicionālas navigācijas metodes - piemēram, papīra kartes, inerciālās navigācijas sistēma un vizuālie orientieri. Tās ir svarīgas, ja elektronika kļūdās vai nepieciešams pārbaudīt tās datus.
+Labi - ievadam pietiks. Lai veicas!
+Gaiša, bet miglaina diena, un Pērle ir kursā uz Batumi ostu Gruzijā. Melnā jūra klusa, visiem par brīnumu ne melna.
+Tu pārbaudi ECDIS ekrānu - tas rāda, ka atrodies {u}10 jūras jūdzes{/u} no krasta. GPS GNSS signāls ir stabils.
+...bet kaut kas nav kārtībā. RADAR ekrānā rāda, ka esam tikai {u}0.5 jūdzes{/u} no krasta... ļoti tuvu.
+GPS un RADAR rādītāji nesakrīt. Ir jāizlemj, ko darīt.
+Tu turpini pēc GPS datiem, kas rāda, ka atrodaties drošā attālumā no krasta.
+Pēkšņi izdzirdams trauksmes signāls - RADAR rāda šķēršļus tieši priekšā! Pa logu parādās krasts.
+Kapteinis iztraucēts ierodas tiltiņā.
+Kas notiek? Kāpēc mēs tuvojamies krastam? Griežamies!
+Tu redzēji, ka RADAR dati rāda šķēršļus! Knapi izdevās sveikā novirzīties.
+Tu akli uzticējies tikai vienam avotam. Šajā gadījumā GPS dati tika {u}viltoti{/u}.
+Ja kāds no datiem uzrāda sliktus rādītājus, labāk to neignorēt un izvērtēt situāciju.
+Tu piebremzē un pārslēdzies uz manuālu režīmu.
+Vizuāli neko nevar redzēt. RADAR karte rāda, ka esam bīstami tuvu krastam.
+Tu izmanto mirkli, lai pieņemtu nākamos lēmumus. Jāizlemj tūlītēji.
+Tu turpini balstīties tikai uz RADAR datiem. Kuģis sasniedz tuvāko ostu.
+Lai arī šoreiz radio viļņi nepievīla, nepietiek tikai ar vienu avotu. Akla paļaušānās uz vienu informācijas avotu, bez tā salīdzināšanas ar citiem, var novērst pie bēdīgām sekām.
+Tu fiksi restartē ECDIS sistēmu. GPS signāls atgriežas, bet rādījumi paliek nemainīgi.
+Restartēšana nesniedza jaunu informāciju.
+Tu saproti, ka nepieciešams alternatīvs risinājums.
+Tu centies saskatīt orientierus - bet migla ir pārāk bieza, neko redzēt nevar.
+Papīrs un karte nepieviļ - veicu pozīcijas aprēķinus ar lagrēķinu, izmantojot kursu un pēdējos pārbaudītos atrašanās vietas rādītājus.
+Ar aprēķina palīdzību tu pārliecinies, ka RADAR signāls ir pareizs. Kuģis var turpināt kursu uz galamērķi.
+Tu pārslēdzies uz daudzfrekvenču GNSS uztvērēju. Var uztvert Galileo signālu.
+Parādās atšķirība starp abiem signāliem. Jaunais signāls tuvāk atbilst RADAR datiem.
+Ar aprēķina palīdzību tu pārliecinies, ka Galileo un RADAR signāls ir pareizs. Kuģis var turpināt kursu uz galamērķi.
+Jaunais signāls izrādījās pareizs, taču tas netika pārbaudīts. Kuģis var turpināt kursu uz galamērķi.
+Izcili darīts! {u}Šādi jāreaģē profesionālim{/u}.
+Tu izmantoji kombinētu navigācijas metožu pieeju, lai pārbaudītu datu pareizumu.
+Tava izvēle gandrīz noveda pie katastrofas. GPS dati bija viltoti.
+Tu izvēlējies salīdzinoši drošu ceļu, bet nenovērtēji situāciju līdz galam. Šādos gadījumos labāk izmantot kombinētu navigācijas metožu pieeju, iekļaujot arī tradicionālas metodes ar aprēķiniem.
+Tāpat apsveicu ar veiksmīgu iznākumu!
+GNSS signāli nav absolūti droši un precīzi. Tos var traucēt, viltot, kā arī tie var vienkārši pazust, ja ir sistēmas kļūme vai traucējumi.
+Tas pats var attiekties arī uz RADAR datiem. Tāpēc ir svarīgi izmantot kombinētu navigācijas metožu pieeju, lai pārbaudītu datu pareizumu.
+Vienmēr salīdzini dažādus avotus un nepaļaujies tikai uz tehnoloģijām.
+Scenārijs balstīts uz notikumiem 2017. gadā Melnajā jūrā. Krievijas piekrastei tuvos ūdeņos vairākiem kuģiem tika viltoti GNSS signāli. Daļa no tiem gandrīz uzpeldēja uz krasta.
+1. daļa pabeigta!
+Sveicināts uz klāja!
+Kāpēc esam ārā? Iesim zvejot!
+Tikai šoreiz Tu būsi loms, bet es - makšķernieks. Mans uzdevums būs Tevi pievilināt ar dažādām ēsmām.
+Bet kāpēc tādas lomas? Scenārijs būs par {u}pikšķerēšanu{/u}.
+Tā ir kiberuzbrukumu metode, kas ar maldinošām metodēm mēģina pievilināt Tavu uzmanību un uzticību, lai iegūtu Tavus personīgos vai uzņēmuma datus.
+Angļu valodā šādus uzbrukumus sauc par {u}phishing attack{/u} - saskan ar vārdu "fish" - zivis!
+Makšķeres galā ir ēsma - tā var būt aizdomīga e-pasta vēstule vai tīmekļa lapa, kas uz pirmā skatiena izskatās kā īsta.
+Tavs uzdevums - spēt noteikt pazīmes, kas liecinātu par to, vai inforācija ir patiesa vai maldinoša.
+Jauns ziņojums
+Jums ir ienākuši 6 jauni e-pasti.
+Tieši laikā!
+Krāpniekiem e-pasti ļooti patīk, jo ar tiem ikviens asprātis var izlikties par kādu uzticamu avotu. Turklāt e-pastus var izsūtīt plašam saņēmēju lokam vienlaicīgi, gaidot, kad kāds paķers ēsmu.
+Šķietami mazas nianses spēj palīdzēt pateikt priekšā, vai informācija patiesa. Arī zināšanas par metodēm, ar kādiem pikšķerētāji zvejo informāciju, ļoti noder. Bet vai Tu spēsi atšķirt īsto no neīstā?
+Pēc kārtas vērsi vaļā dažādus e-pastus, kas te sasūtīti. Kopumā būs 6 piemēri. Sākumā ēsmas centies noteikt ar savām acīm, tad veic izvēli, un pēc tam es visu paskaidrošu, ja kaut kas būs palaists garām.
+E-pastiem būs pogas un saites - uz tām klikšķināt nevar (uz nekādiem brīnumiem nevedīšu.. diemžēl {image=emoji/sweat.png}). Taču, turot kursoru virs tām, apakšā parādīsies saite, uz kurieni tās ved. Esi acīgs!
+Lai nebūtu tik vienkārši, varbūt kāds e-pasts būs īsts. Kad tas apskatīts, spied jebkur uz ekrāna un veic izvēli par to, vai tas īsts vai ēsma!
+Lai veicas!
+1. E-pasts - piedāvājums no "{color=#FF0000}Coca-Cola{/color}"
+Nu, nu - esam uzmanīgāki.
+Pareizi! Piedāvājums tiešām pārāk labs, lai būtu īsts.
+Šis tik tiešām bija īsts mikslis!
+E-pasts apgalvo, ka ir no Coca-Cola, taču sūtītāja adrese ir ļoti nejauša - tas nav neiespējami arī īstam e-pastam, taču ir aizdomīgs signāls.
+Saturs - pat teksts - viss ir ievietots vienā lielā attēlā. Lai gan dažos īstos e-pastos tas tiek izmantots, šī tehnika bieži tiek pielietota, lai izvairītos no atklāšanas.
+Saite neved uz Coca-Cola mājaslapu, un tā ir veidota tā, lai noslēptu pāradresācijas un novērstu lasītāja uzmanību - tā aktivizējas tikai ar tekstu pēc # zīmes. Vai spēji uzķert?
+Kas tālāk?
+2. E-pasts - ziņojums no Google
+Pareizi! Šoreiz e-pasts pavisam īsts.
+Šoreiz nebūs pareizi. E-pasts ir pavisam reāls. Bet, kā saka - drošs paliek drošs. Nevaru dikti piesieties!
+Galvenā saite ir gara, kas var šķist aizdomīgi, bet šajā gadījumā tā ved uz oficiālu lietotāja konta lapu.
+Vērts zināt - īstie ziņojumi no Google vienmēr nāks no "no-reply@accounts.google.com" e-pasta. Sarakstu ar aktuālajiem brīdinājumiem var arī apskatīt apakšējā saitē.
+3. E-pasts - dokuments no kolēģa
+Nebūs pareizi - šis ir pikšķerētāja darbs.
+Trāpīts! Būsi pamanījis maldinošo saiti.
+Šis ir viens no visbīstamākajiem pikšķerēšanas veidiem. Redzi- te uzbrucējs tēlo kolēģi, iespējams pazīstamu, un ir izveidojis šķietami ticamu ziņojumu no Google Drive.
+Uzbrukumus, kas ir tieši mērķēti kādam darbiniekam vai uzņēmumam, sauc par aktīvi mērķētiem uzbrukumiem. Angliski tos sauc "Spear phishing attack" - tulkojas kā šķēpu zvejošana.
+Uzbrukumi var būt ļoti efektīvi, ja upuris vispirms rūpīgi nepārbauda informāciju. Šādi uzbrukumi ir retāki, jo uzbrucējam vispirms jāiegūst informācija par uzņēmumu vai personu.
+Kā varēja šo uzbrukumu atklāt? Pirmkārt, Google Drive ziņojumi nāks no pašas platformas e-pasta - ne no sūtītāja konta. Otrkārt, saitē svītras "--" imitē īsto saiti.
+Tomēr - kas bija galvenais rādītājs? Saites sākumā redzamais HTTP protokols.
+HTTP ir parasts interneta savienojums, bet HTTPS ir drošāks - tas šifrē informāciju, lai to nevarētu pārtvert vai nolasīt citi. Ja redzi "https://", tas nozīmē, ka vietne ir drošāka, taču ne vienmēr.
+Ko vēl vērts zināt - tā kā lielākā daļa krāpnieku nezina tavu vārdu, viņi uzrunās tevi vispārīgos veidos ar standarta uzrunām.
+Ar darbu saistītos un personīgi adresētos e-pastos šim jāpievērš pastiprināta uzmanība, jo kolēģi parasti pazīst vai zin viens otru. Šajā gadījumā arī "Laura" uzrunā, neminot saņēmēja vārdu.
+Veram vaļā nākamo!
+4. E-pasts - ziņa no Valsts ieņēmumu dienesta
+Esi uzmanīgāks! Šī nav oficiāla VID saite.
+VID nekad ar Tevi tā nesazinātos.
+Tieši tā! VID nekad ar Tevi tā nesazinātos.
+Kas jāzin - VID un citas valsts institūcijas nesūta pieteikšanās saites e-pastā. Arī stils un valoda e-pastā nav formāla un stilistiski pareiza.
+Oficiālās VID lapas ir "vid.gov.lv" un "eds.vid.gov.lv". Arī varēja pamanīt, ka saite izmanto "web.app", kas bieži tiek izmantots pikšķerēšanai.
+Arī var manīt, ka e-pasta adrese "@cuirsarie.fr" nav saistīta ar VID. Valsts iestādes reti sūta e-pastus - labāka alternatīva ir E-adreses izmantošana, kas ir ļoti drošs variants.
+Pikšķerētāji ielikuši pieslēgšanās kodu, kas dod lasītājam maldīgu iespaidu par e-pasta autentiskumu. Ja tiek uzzvanīts, operatori var turpināt maldināt un pieprasīt sensitīvu informāciju.
+Kopumā galvenais ieteikums - svarīgām saitēm pieslēgties tikai caur organizāciju oficiālajām saitēm no pārlūka.
+Ejam tālāk!
+5. E-pasts - ziņojums no "{color=#0000FF}PayPal{/color}"
+Uzķēries! Esi uzmanīgāks.
+Tieši tā! Šis ir pikšķerētāja darbs.
+Pikšķerēšanas e-pasti, kas tēlo finansiālus uņēmumus, ir ļoti izplatīti, jo veiksmīgs uzbrukums var nest lielu peļņu.
+Šajā gadījumā varētu nodomāt, ka ar e-pastu viss ir kārtībā - tas ved uz droša tipa saiti, kā arī sūtītāja e-pasts var šķist ticams.
+Taču, pievēršot lielāku uzmanību, varēja manīt, ka saite patiesībā ved uz pavisam citu vietu - "https://www.palpay.com". Jau pēc nosaukuma redzams, ka kaut kas nav labi.
+Tekstā izmantoti nezināmi un neizskaidroti iemesli problēmām. Raksturīga ir arī steidzība - viss jāizdara ātri un bez liekas domāšanas. Vizuālais izkārtojums arī varētu būt labāks.
+Pikšķerētājs maldina lasītāju, minot, ka paroles jāsargā un jāpiesakās tikai caur doto "oficiālo" saiti. Viss tā kā būtu pareizi, bet šādā veidā pats cenšas izlikties par īsto un pareizo.
+Galvenā atziņa - pārbaudam gan e-pastā redzamo saiti, {u}gan{/u} tās reālo adresi ar kursoru.
+Pēdējais e-pasts - beidzot!
+6. E-pasts - ziņa no "{color=#0000FF}Dropbox{/color}"
+Trāpīts! Šis ir īsts ziņojums no Dropbox.
+Šoreiz nebūs pareizi. Šis ir īsts ziņojums no Dropbox.
+Šeit ir redzams piemērs īstam un drošam e-pastam no uzticama sūtītāja.
+Lai arī pēc iepriekšējiem piemēriem saprotams, ka skatamies uz visu ar lielu skepsi, šoreiz, ja ieskatās, visas saites ir drošas un sūtītāja adrese nerada pamatu šaubām.
+Arī redzams, ka sūtītājs neprasa vai nepiedāvā paust savu personīgo informāciju - tā ir laba zīme.
+Nu ko - būsim izskatījuši visu, kas bija sasūtīts. Cerams spēji atrast daļu makšķerētāju trikus!
+Šeit vien bija pāris piemēri, bet patiesais daudzums ar veidiem, kādos pikšķerētāji apspēlē upurus, ir ievērojami lielāks.
+Visu nekad nevar zināt, taču vienmēr ir vērts būt kritiskiem un ievērot drošas informācijas apmaiņas principus, lai uzbrucēji netiktu pie mūsu informācijas.
+Nobeigumā apskatīsim, kas notiktu, ja Tu tomēr uzspiestu uz kādu no neīstajām adresēm un nonāktu pikšķerētāja lapā.
+Izspēlēsim spēli, kurā Tu centīsies atrast {u}5{/u} pazīmes, kas liecina par pikšķerēšanas mēģinājumu.
+Priekšā būs bankas tīmekļa lapa. Spied uz tām vietām, kas Tev šķiet {u}aizdomīgas{/u}.
+Ja uzspiedīsi uz pareizās vietas, saņemsi punktu un zaļu zivtiņu. Ja uzspiedīsi uz nepareizās vietas, zaudēsi punktu un zivs būs sarkana. Tāpēc esi uzmanīgs!
+Spēles uzdevums: tīmekļa lapā atrast 5 pazīmes, kas liecina par pikšķerēšanas mēģinājumu.
+Lieliski! Tu identificēji visas ēsmas, kas liecinātu, ka saite ir maldinoša.
+Nekad neievadi datus saitē, kamēr neesi pārliecinājies, ka tā ir droša.
+Aizdomīgās pazīmes bija:
+1. - logo, kas neatbilst SEB bankai
+2. - drukas kļūda (Kodu klkulators)
+3. - aizdomīgā pieslēgšanās poga (krāsa un fonts)
+4. - "https:bit.ly" saite. Tādu uzbrucēji izmanto, ja vēlas paslēpt patieso adresi.
+5. - "Not secure" ziņa adreses joslā. Pārlūks brīdina, ja ir atvērta HTTP tipa saite. Arī zīme, ka lapa nav īsta.
+Pēc visiem piemēriem var secināt, ka, lai neuzķertos uz krāpnieku āķiem, ir vienmēr jābūt kritiskiem un modriem, un secinājumus jāveido, izvērtējot vairākas pazīmes.
+Arī iesaku vienmēr nodalīt personīgos e-pastus no darba vai mācību vajadzībām paredzētiem. Kā arī jaunumiem, reklāmām un mazāk svarīgām vietnēm reģistrēties ar nodalītu e-pastu.
+Tādā veidā var samazināt "spam" jeb mēstuļu skaitu svarīgos e-pastos.
+2. daļa pabeigta!
+Esi sveicināts personāla telpās!
+Kā daļai no Pērles komandas, Tev būs pašam sava kajīte, kā arī tiksi pie sava jaunā darba datora.
+Droši ļaušu iekārtoties un iejusties jaunajā vidē, taču neaizmirsti reģistrēt savu kontu datorā, lai varētu pieslēgties tam.
+Ļoti svarīgi izveidot drošu paroli, jo ar to pašu lietotāja kontu varēsi arī pieslēgties svarīgām kuģa sistēmām. Šādā veidā varam izsekot, kādas darbības katrs darbinieks veicis, kā arī kur un kad pieslēdzies.
+Lai nepieļautu krāpnieku piekļuvi svarīgajām sistēmām, ir jāpārliecinās par IT drošību, sākot ar pamatu pamatiem - parolēm.
+Sākumā šķietami vienkāršs uzdevums: izveidot paroli! Te gan neliels bet - esmu noteicis prasības parolei, bet Tu tās pagaidām nezini.
+Kāpēc? Vēlos, lai Tu pats izveido pēc iespējas šķietami drošāku paroli.
+Ja parole nebūs gana droša, saņemsi prasību, kas nav izpildīta. Jo mazāk mēģinājumu, jo vairāk punktu!
+Gan jau ne reizi vien nācies šādi sadzejot paroli!
+Perfekti! Parole pieņemta ar pirmo reizi. Konts gatavs! {image=emoji/clap.png}
+Nesanāca ar pirmo, bet tāpat labi. Konts gatavs!
+Parole pieņemta, taču pēc vairākiem mēģinājumiem. Konts gatavs!
+Kā gāja ar dzejošanu? Cerams pārāk neaizkavēju!
+Manas izvirzītās prasības bija:
+1. - Nekādas atstarpes. Parolēs tādas nekad nelietojam.
+2. - Parolei jābūt vismaz 8 simbolus garai. Pietiekami gara, lai būtu droša, bet arī viegli iegaumējama.
+3. - Nedrīkst būt divi vienādi simboli pēc kārtas - tā tiek palielināta paroles nejaušība.
+4. - Parolē jābūt vismaz vienam lielajam burtam, vienam mazajam burtam, skaitlim un speciālajam simbolam.
+Vienkārša un efektīva recepte drošai parolei!
+Lai arī vairums vietās prasības jau būs noteiktas - kad nākas pašiem veidot paroles, der šo to atcerēties.
+Lai arī pilnībā pārbaudīt nevarēju, vienmēr ieteicams izvairīties no šiem piemēriem parolēs:
+1. - populāri vārdi no vārdnīcas
+2. - automašīnu markas vai pazīstami zīmoli
+3. - telefona numuri, personīgie dati
+4. - izplatīti vārdi, piem., krāsas, gadalaiki, dienas, sporta veidi, dzērieni utml.
+5. - vienkārša tastatūras simbolu secība, piem., "qwerty" vai "12345"
+6. - ar datoriku saistīti vārdi, piem., "admin"
+Vislabākā prakse ir veidot nejaušu skaitļu, ciparu un simbolu kombināciju, kuru tikai Tu varētu zināt.
+Ievērojot šo, labāk nosargāsim gan sevi, gan savus kolēģus.
+Un atceramies -
+Paroles ir personīga un konfidenciāla informācija - tās nedrīkst izpaust nevienam. {cps=10}{size=40}{color=#FF0000}Nekad!{/color}
+Neatkarīgi no tā, cik ilgi un labi pazīsti savu kolēģi vai tuvu cilvēku - nekad nevar zināt, kur šī informācija var nonākt. Tieši vai netieši.
+Īsziņas un zvanus var pārtvert, ierīces - nozagt. Pastāv risks, ka darbiniekus uzpērk, pie tam krāpnieks var izlikties par jebko - pat par tavu kolēģi... vai Vecmāmiņu!
+Tagad nākamais uzdevums - kur šo jauno paroli glabāsi? Sekos vairāki jautājumi - iztēlojies, ka esi IT administratora lomā.
+Pierakstīt paroli uz papīra nav ideāla prakse, bet, ja glabā to drošā, slēgtā vietā kā seifs, tas var būt pietiekami droši. Jāņem arī vērā, ka seifam ne vienmēr būs parocīgi piekļūt.
+Svarīgi arī pārliecināties, ka seifam piekļūt vari tikai Tu, kā arī to regulāri pārbaudīt.
+Šādu risinājumu izmanto kā alternatīvu gadījumos, kad nav pieejamas digitālās ierīces vai internets.
+Ļoti laba izvēle! Virtuāls paroļu pārvaldnieks ir viens no visdrošākajiem veidiem, kā pārvaldīt un glabāt paroles.
+Taču saki - kādu paroļu pārvaldnieka veidu izmantosi?
+Ideāli! Lokāls paroļu pārvaldnieks datorā nodrošina augstu drošību, ja vien pats dators ir labi aizsargāts.
+Svarīgi ir arī iestatīt stipru pieslēgšanās paroli un izmantot šifrēšanu.
+Atceries par rezerves plānu, ja dators sabojājas vai tiek pazaudēts.
+Labs variants, taču glabāt personīgajā datorā ir nedaudz drošāk, jo telefoni tiek biežāk izmantoti publiskās vidēs. Ja tas tiek atstāts vai netiek uzmanīts - pastāv lielāks uzbrukuma risks.
+Drošs paroļu pārvaldnieks (labi šifrēts un ar drošu pieslēgšanās metodi) nodrošinās to, ka paroles būs pasargātas.
+Jāņem gan vērā, ka, ja zūd piekļuve telefonam dažādu iemeslu dēļ, vajag būt rezerves alternatīvai.
+Vēl viens paroļu pārvaldnieks uz datora vai saraksts drošā seifā - šīs ir labas alternatīvas.
+Ja paroļu pārvaldnieks droši arī saglabā paroles personīgajā "mākonī", kam var pieslēgties no citas ierīces - tā var būt laba alternatīva.
+Telefonam svarīgi iestatīt drošu pieslēgšanās metodi - laba parole, biometrisko datu izmantošana (sejas atpazīšana, pirkstu nospiedumi). Tas sniedz papildus drošību.
+Svarīgi telefonu nekad neatstāt atvērtu - krāpnieki vien gaida brīdi, kad kāds atstās šādi.
+Šķietami labs variants - ērti no dažādām ierīcēm var piekļūt parolēm caur tīmekļa pārlūku.
+Taču šāds variants nav labs, ja pazūd piekļuve internetam.
+Tā kā atrodamies uz kuģa, kur internets nav vienmēr garantēts, šāda metode nav ieteicama.
+Labāk izvēlēties rīku, kas ir pieejams bezsaistē, kā arī noteikt kādu rezerves alternatīvu, ja primārā metode nav pieejama.
+Telefona piezīmju grāmatiņa nav piemērota vieta paroļu glabāšanai.
+Ja telefons tiek pazaudēts vai uzlauzts, uzbrucējs ātri vien atradīs šādu informāciju.
+Drošāk izmantot šifrētu paroļu pārvaldnieka aplikāciju ar drošām pieslēgšanās metodēm.
+Saglabāt paroles USB diskdzinī ir salīdzinoši droši, taču tas nes sevī riskus.
+Ja USB disks tiek pazaudēts vai nonāk svešās rokās, visas paroles ir apdraudētas.
+Ja izmanto USB, paroles noteikti jātur šifrētā failā un pašam USB jābūt drošā vietā.
+Labāk izmantot šifrētus, aizsargātus paroļu pārvaldniekus. Šis gan ir labs rezerves variants!
+Ja vari izveidot un atcerēties drošas un unikālas paroles, tad cepuri nost!
+Taču jābūt uzmanīgam, lai neizvēlētos pārāk vienkāršu vai paredzamu paroli tikai tāpēc, lai būtu vieglāk iegaumēt to.
+Atceries, ka galvā glabājot daudzas dažādas paroles var kļūt grūti - tad palīdz paroļu pārvaldnieki.
+Vēlreiz apskatīsim piedāvātās iespējas:
+1. - Papīrs seifā. Labs kā rezerves variants, bet ne galvenais risinājums.
+2. - Virtuālie paroļu pārvaldnieki (datorā vai telefonā). Visdrošākais risinājums, ja tiek izmantoti droši un šifrēti varianti. Visdrošāk izmantot datorā.
+3. - Tīmekļa pārlūka paroļu pārvaldnieki. Ērti, bet atkarīgi no interneta. Nav ieteicams jūrā.
+4. - USB disks. Tikai, ja šifrēts un labi pasargāts.
+5. - Saglabāt telefona bloknotā vai balstīties uz savu atmiņu. Šie nav droši varianti.
+Es pats izmantoju labi šifrētu paroļu pārvaldnieku ar stipru galveno paroli, kas tiek regulāri mainīta.
+Ārkārtas gadījumiem man ir USB diskdzinis, kam ir šifrēts saraksts ar parolēm. Tas tiek glabāts seifā!
+Lai arī dažas metodes var šķist pārspīlētas, paroļu drošība ir mūsu un uzņēmuma drošība.
+Ja uzbrucējs iegūst kaut vai ECDIS pieslēgšanās datus, sekas var būt katastrofālas.
+Tagad, kad esi izveidojis savu darba kontu ar drošu paroli, laiks pievienot vēl vienu drošības slāni.
+Jebkura parole, lai cik droša tā būtu, var tikt apdraudēta.
+Tāpēc mūsdienās arvien izplatītāka kļūst daudzfaktoru autentifikācija jeb {u}DFA{/u}.
+Tā nozīmē, ka papildus parolei tiek pieprasīts vēl vismaz viens pierādījums, ka tieši Tu pieslēdzies.
+Kuģa vidē tas ir īpaši svarīgi kritiskām sistēmām, kuru uzlaušanu nedrīkst pieļaut.
+Tāpēc izvēlei par DFA metodi jāpieiet atbildīgi, ņemot vērā gan drošību, gan praktiskumu.
+Tagad saki - ko labāk izvēlēsies?
+Saņem vienreizēju kodu īsziņā. Drošāks par paroli vien, taču kuģa apstākļos nav ieteicams risinājums.
+Uz kuģa var būt nestabils sakaru pārklājums, turklāt SMS signālus krāpnieki var salīdzinoši viegli ietekmēt.
+Pastāv SIM kartes klonēšana - ja uzbrucējs tiek klāt telefonam un spēj slepus karti noklonēt, tad tas spēj saņemt tos pašus ziņojumus, kurus saņem Tu.
+Uzbrucēji var arī pārtvert pašu tīklu, imitējot staciju. Tādā veidā var arī pārtvert informāciju.
+Turklāt jāatceras, ka esam tālu no sauszemes - signāls var būt pārāk vājš, kā arī SMS izmantošana jūrā var būt ļoti dārga.
+Laba izvēle! Kodu kalkulators ir maza ierīce, kas ģenerē īslaicīgu un vienreizēju kodu.
+Tas ir ļoti drošs variants - ierīces signālu ir grūti pārtvert, kā arī tas sazinās tikai ar sistēmu vai kontu.
+Visam gan savas vājības. Ierīci var nozagt, kā arī pastāv neliels risks "Man-in-the-middle attack" jeb cilvēka vidū uzbrukumam.
+Krāpnieks var pārtvert ierīču savstarpējo komunikāciju. Šādi gadījumi ir reti, bet ne neiespējami.
+Kodu ierīces senāk bija plaši izmantotas banku autentifikācijai, taču telefoni lēnām lomu aizvietoja.
+Arī jāņem vērā, ka ierīci var būt grūti uzstādīt, un tā nebūs ieteicama daudzām sistēmām, jo tas būtu ļoti neparocīgi.
+Droša izvēle, ja telefons ir aizsargāts un pieejams. Taču šādām aplikācijām ir nepieciešams stabils tīkls.
+Tā pati par sevi ir liela vājība, jo kuģa tīkla sakari var pārtrūkt vai tikt traucēti.
+Arī jāatceras, ka pastāv risks telefonam tikt nozagtam.
+Šķietami laba izvēle, taču e-pastus var būt grūtības saņemt uz kuģa, ja interneta nav vai tas tiek traucēts.
+Ja uzbrucējs iegūst piekļuvi e-pastam, DFA vairs nav drošības barjera.
+Lieliska izvēle!
+Tā ir maza, fiziska ierīce, kuru pievieno datoram. Pēc izskata līdzīga USB diskdzinim.
+Ļoti augsts drošības līmenis, jo nav atkarīga no interneta vai telefoniem.
+Taču ir savi mīnusi. Ierīci jātur drošībā prom no svešām rokām, un jāatceras, ka tās izmantošana ikdienā var būt nedaudz neērta.
+USB autentifikatori ir īpaši ieteicami svarīgākajām sistēmām, taču ne visām ērtības dēļ.
+Iespējas un metodes ir daudz un dažādas - nekad nebūs vienota pieeja.
+Galvenais ieteikums - izmantot drošu paroli, taču kritiskajām sistēmām papildus lietot USB autentifikatoru vai kodu kalkulatoru, ja iespējams.
+Opā! Kā reiz atnācis SMS kods no.. Google, ne? Izskatās, ka Tu jau esi ķēries pie darba un vēlies izmēģināt SMS metodi.
+Super! Varam to apskatīt kopā.
+123-456-7
+Jūsu Google verifikācijas kods ir {u}1212{/u}
+Te var redzēt tipisku piemēru SMS autentifikācijas metodei.
+Klau, bet te vēl cita ziņa, kas atnāca pirms 18 minūtēm.
+631-555-6
+Vai jūs pieteicāt savas paroles atjaunošanu? Ja jā - lūdzu ignorējiet ziņu. Pretējā gadījumā rakstiet {u}CANCELXXXX{/u} un X aizvietojiet ar saņemto kodu.
+To var apskatīt, spiežot uz pogas "ESC" un izvēloties sadaļu "VĒSTURE".
+Malacis, pareiza izvēle! Vai spēji atkost, ka šis ir pikšķerētāja darbs?
+CANCEL1212
+Paldies! Jūsu pieprasījums ir saņemts. Tuvākajā laikā ar jums sazināsies mūsu pārstāvis.
+Kurš gan varēt-..
+{cps=20}{size=50}Ak nu!... Sistēēma.. uzlauu..zta! Un tas viss,,,, jo pasniedzzii kodu kāā uz paplllātttes!!
+Šis bija viens no kārtējiem pikšķerēšanas mēģinājumiem - turklāt ļoti viltīgs!
+Pirms atbildi nezināmiem numuriem, pārliecinies, ka tie ir uzticami. Bija pazīmes, kas liecināja pretējo.
+Svarīgi saprast vienu: SMS kods ir paredzēts tikai un vienīgi tam, lai Tu pats to izmantotu īstajā brīdī, īstajā vietā.
+Nekad nevajag dalīties ar verifikācijas kodiem ārpus situācijas, ko Tu pats neesi uzsācis, piemēram, piesakoties savā kontā vai runājot ar banku pa telefonu.
+Šajā gadījumā cits numurs bija sūtījis ziņu - sagadījās, ka tieši Tev un tuvā laikā.
+Taču tas notika pirms Tu izmantoji SMS autentifikatoru. Arī zīme - otra ziņa nesaturēja vārdu Google, jo krāpnieks nezin, ko un kad izmanto.
+SMS verifikācijas kodi ir solis uz drošību, bet, kā tagad redzi, tie nav perfekti.
+Labi, ejam tālāk!
+Nākošā svarīgā izvēle - {u}USB politika{/u}.
+Nulles riska politika. Var radīt grūtības, ja nepieciešami atjauninājumi vai ārējā datu apmaiņa.
+Saprotams kompromiss starp drošību un funkcionalitāti. Lieliska izvēle!
+Augsts risks. Lielākā daļa incidentu sākas ar kļūdām vai nezināšanu.
+Pie tam paveras iespēja uzbrucējam viegli piekļūt svarīgām sistēmām.
+USB datu nesēji uz kuģa var šķist ērts rīks datu apmaiņai vai atjauninājumiem, taču tie arī ir viens no biežākajiem ļaunprogrammatūras ievazāšanas veidiem.
+Vīruss var neaktivizēties uzreiz. Tas var pat gadiem palikt nemanāms sistēmā, līdz tiek aktivizēts, kad konkrētas kuģa sistēmas pieslēdzas internetam vai kādam ārējam tīklam.
+Tieši USB disku izmantošanas kļūdas ir bijušas pamatā vairākiem nopietniem incidentiem jūrniecībā.
+Tāpēc politika, kā mēs apstrādājam USB ierīces, ir kritiska kiberdrošības sastāvdaļa.
+Visbeidzot, pievērsīsimies arī {u}fiziskajai drošībai{/u}.
+Augsts drošības līmenis - tikai autorizētiem darbiniekiem ar pārbaudītu piekļuvi. Laba izvēle!
+Labs variants, bet pastāv risks pret cilvēku kļūdām vai atslēgu kopēšanu.
+Ļoti augsts risks. Praktiski nav aizsardzības pret fizisku manipulāciju. Tik vieglprātīgam nevajadzētu būt.
+Digitālās sistēmas var būt lieliski aizsargātas, bet, ja uzbrucējs var fiziski piekļūt nepasargātam datoram, parolēm vai serverim, visa kiberdrošība var kļūt bezjēdzīga.
+Kuģa specifika - izolēta vide, dažādu speciālistu klātbūtne no ārpuses (servisa tehniķi, pārbaudes inspektori) rada īpašu nepieciešamību kontrolēt piekļuvi fiziskajām vietām.
+Serveru telpas, sakaru centri un vadības iekārtas jācenšas maksimāli aizsargāt.
+Nu ko, tagad pārbaudīsim, kā Tavas izvēles palīdz vai kavē kuģa drošību reālās situācijās.
+Atceries, drošība jūrniecībā nav tikai tehnoloģijas jautājums. Tas ir arī komandas stratēģijas un disciplīnas jautājums.
+Šie nākamie notikumi būs balstīti tieši uz Taviem iepriekš pieņemtajiem lēmumiem.
+To var apskatīt, spiežot uz pogas "ESC" un izvēloties sadaļu "VĒSTURE".
+Malacis, pareiza izvēle! Vai spēji atkost, ka šis ir pikšķerētāja darbs?
+Viss sākās brīdī, kad pēc ierastās tehniķu vizītes tika novērota neparasta datora uzvedība Pērles administrācijas telpās.
+Vairāki darbinieki ziņoja par sistēmu palēnināšanos, un vēlāk uz ekrāniem parādījās paziņojums par failu šifrēšanu un pieprasītu izpirkuma maksu.
+UZMANĪBU: Jūsu pārvadājumu dati ir šifrēti!
+Lai atgūtu piekļuvi, lūdzu, samaksājiet 3000.00 EUR "Bitcoin" valūtā uz sekojošo adresi:
+1Ez69SnzzmePmZX3WpEzMKTrcBF2gpNQ55
+Pēc maksājuma saņemšanas Jums tiks nosūtīta atšifrēšanas atslēga.
+Atlikušais laiks: 22 stundas un 10 minūtes.
+Ja samaksa netiks veikta laikā, visi faili tiks neatgriezeniski dzēsti.
+Uzreiz uzsākām incidenta izmeklēšanu, lai noskaidrotu iespējamo avotu.
+Tā kā Tu izvēlējies fizisko drošību ar brīvu piekļuvi visiem darbiniekiem, ārējais tehniķis varēja netraucēti pārvietoties pa administrācijas zonu.
+Viņam bija iespēja nepamanīti piekļūt neaizslēgtam datoram, un visticamāk tieši šādā veidā tika ievadīts kaitīgais fails.
+Tā kā Tu izvēlējies piekļuvi ar mehāniskām atslēgām, piekļuve bija ierobežota, taču atslēgas klonēšanas risks tika realizēts.
+Ārējais tehniķis, iespējams, izmantoja klonētu atslēgu, lai piekļūtu serveru telpai.
+Pateicoties stingrajai piekļuves kontrolei (biometrija vai kartes), tehniķim nebija iespējas piekļūt serveriem vai sensitīvām darba stacijām.
+Tāpēc infekcija notika tikai ierobežotā apjomā, skarot personāla tīklā visvieglāk pieejamo informāciju.
+Tā kā Tu izvēlējies paroles glabāt vai nu piezīmju grāmatiņā vai paļauties tikai uz atmiņu, paroles bija viegli pieejamas uzbrucējam.
+Viņš ātri atrada piezīmes vai atminēja vāju paroli, iegūstot piekļuvi papildus sistēmām.
+Tā kā paroles tika glabātas USB diskā, uzbrucējam bija iespēja fiziski iegūt disku un piekļūt paroļu failam.
+Bez šifrēšanas tas radīja nopietnu apdraudējumu.
+Tā kā paroles tika glabātas tīmekļa pārlūkā, tas pastiprināja risku, ja pārlūks bija atvērts bez aizsardzības.
+Taču uzbrucējs par laimi uzreiz nevarēja piekļūt šiem datiem.
+Paroles tika glabātas paroļu pārvaldniekā vai seifā, kas ļāva novērst tālāku piekļuvi sistēmām.
+Tas būtiski ierobežoja infekcijas tālāko izplatību.
+Pateicoties ātrajai reakcijai, mēs izolējām inficētos datorus un uzsākām sistēmu atjaunošanu no rezerves kopijām.
+Šis ir klasisks {u}izpircējvīrusa{/u} piemērs - ļaunprogrammatūra šifrē sistēmas datus un pieprasa izpirkuma maksu.
+Jūrniecībā tas var būt īpaši bīstami, ja tiek paralizētas navigācijas sistēmas, piemēram, ECDIS, GPS vai kravas vadības iekārtas.
+Uzņēmumam neatliek nekas cits, kā vien samaksāt izpirkuma maksu, ja nav kāda alternatīva.
+Pieprasītās summas mēdz būt lielas. Piemēram, izpircējvīruss "NotPetya" 2017. gadā jūrniecības uzņēmumam "Maersk" radīja ap {u}250-300{/u} miljonu ASV dolāru lielus zaudējumus!
+Piemērs bija balstīts uz šo notikumu.
+Pēc publiski pieejamiem datiem izpircējvīrusa uzbrukumi ir statistiski visizplatītākie jūrniecībā, sastādot ap 44-53% no visiem reģistrētajiem uzbrukumiem.
+Kā no šāda uzbrukuma izvairīties?
+1. - Regulāri atjaunināt kuģu un biroja sistēmas ar drošības ielāpiem un standarta sistēmu atjauninājumiem.
+2. - Lietot spēcīgas, sarežģītas paroles un daudzfaktoru autentifikāciju pēc iespējas vairāk vietās.
+3. - Apmācīt apkalpi atpazīt pikšķerēšanas e-pastus un saites un neizmantot nepārbaudītus USB diskus.
+4. - Veidot regulāras rezerves kopijas pēc iespējas vairāk sistēmām un datiem.
+5. - Segmentēt kuģa tīklus, atdalot kritiskas operāciju sistēmas no ārējiem un citiem tīkliem.
+Ejam tālāk!
+Dzinēju telpā, veicot enerģijas pārvaldības sistēmas diagnostiku, viens no inženieriem pieslēdza USB disku, lai atjauninātu konfigurācijas failus.
+Tā kā Tu izvēlējies paļauties uz lietotāju pašu spriedumu par USB ierīcēm, disks netika pārbaudīts pirms pieslēgšanas.
+Sākotnēji šķita, ka viss darbojas kā parasti.
+Tā kā Tu izvēlējies stingru USB pārbaudes politiku, disks tika pārbaudīts, bet slēptais ļaunprogrammatūras kods bija pietiekami advancēts, lai netiktu pamanīts.
+Turpmāk tika pievērsta pastiprināta uzmanība sistēmu monitorēšanai.
+Tā kā pastāv pilnīgs USB aizliegums, disks nemaz netika izmantots, un sistēma palika neskarta.
+Tas pilnībā novērsa infekcijas risku.
+Sākotnēji nekas aizdomīgs nenotika. Sistēmas darbojās kā parasti - dzinēju vadība, elektroapgādes kontrole, datu vākšana turpinājās bez problēmām.
+Tomēr dažas nedēļas vēlāk, sagatavojoties sistēmas pievienošanai ārējam tīklam uzraudzībai un atjauninājumiem, uzņēmuma IT drošības komanda veica padziļinātu izpēti.
+Rezultāts bija negaidīts!
+Sistēmā tika atrasts aktīvs {u}tārps{/u}, kas bija ieperinājies operatīvajā atmiņā.
+Tā ir ļaunprogrammatūra, kas spēj neatkarīgi funkcionēt kādā sistēmā kā parazīts un ievākt datus vai tālāk izplatīties.
+Tārps bija gatavs automātiski pieslēgties komandcentra serveriem brīdī, kad tiktu nodrošināta piekļuve internetam.
+Infekcija bija sistēmā jau vairākas nedēļas, neizraisot nekādus redzamus simptomus.
+Izmeklēšana atklāja, ka tārps tika ievazāts caur USB disku pieslēgšanas brīdī.
+Ja sistēma būtu pieslēgta ārējam tīklam, ļaunprogrammatūra būtu sākusi datu sūtīšanu uz ārējiem serveriem un potenciāli izraisījusi enerģijas sistēmu sabotāžu!
+Daudzas svarīgas kuģa sistēmas pēc dizaina ir "air-gapped" - bez tiešas piekļuves internetam.
+Taču fiziska piekļuve joprojām ļāva tārpam iekļūt.
+Sistēmu atkopšana prasīja rūpīgu atmiņas skenēšanu, ļaunprogrammatūras iznīcināšanu un visas programmatūras atjaunošanu.
+Kuģa atiešana no ostas tika atlikta par 48 stundām, radot papildu izmaksas un loģistikas traucējumus.
+Šis incidents parāda, ka pat šķietami izolētas sistēmas nav pasargātas.
+Piemērs ir balstīts uz reālu notikumu, kur šāds vīruss uz kuģa nosēdēja veselas {u}875{/u} dienas nepamanīts!
+Svarīgākās atziņas no šī incidenta:
+1. - USB diskdziņi ir ārkārtīgi bīstams avots, īpaši ja netiek veikta stingra kontrole.
+2. - Slēptās ļaunprogrammatūras var palikt nemanītas ilgstoši, līdz aktivizējas pēc pieslēgšanās tīklam.
+3. - Pat "air-gapped" sistēmas var kļūt neaizsargātas fiziskas piekļuves dēļ.
+4. - Regulāra drošības pārbaude ir kritiski svarīga, ne tikai reakcija uz simptomiem.
+Tagad uz pēdējo notikumu!
+Kuģis bija devies pāri Atlantijas okeānam, kad tika novēroti dīvaini sakaru pārtraukumi.
+Sākotnēji problēmas šķita kā parastas tīkla svārstības, taču kļuva skaidrs, ka tas ir kaut kas nopietnāks.
+Galvenais sakaru serveris vairākas reizes pats no sevis restartējās, zaudējot savienojumus ar ostām, dispečeru centriem un kuģu vadības platformām.
+Tika izveidota incidenta izmeklēšanas komanda, lai noskaidrotu, kas tieši notiek.
+Tā kā Tu izvēlējies SMS kodu kā daudzfaktoru autentifikācijas metodi, tas radīja lielu risku.
+Izmeklēšanā tika konstatēts, ka uzbrukuma laikā tika veikts signālu pārtveršanas mēģinājums.
+Uzbrucēji izmantoja viltus mobilo bāzes staciju, kas pārtvēra SMS kodus, ko izmantoja sistēmas autentifikācijai.
+Rezultātā uzbrucējs varēja iegūt piekļuvi iekšējai sakaru sistēmai un izraisīt DoS uzbrukumu (piekļuves atteici).
+Tā kā Tu izvēlējies e-pasta DFA autentifikāciju, tas izrādījās kā vājais punkts.
+Kad kuģis zaudēja interneta savienojumu, autentifikācijas kodi nebija pieejami.
+Sistēma nespēja validēt piekļuves mēģinājumus, un uzbrucējs izmantoja šo logu, lai ielauztos sistēmā un pārtrauktu komunikāciju.
+Tā kā Tu izvēlējies DFA autentifikācijas aplikāciju, drošība bija labāka, taču pastāvēja cits risks.
+Pēc sakaru zaudēšanas aplikācija nespēja sinhronizēt laiku ar serveri, kas īslaicīgi traucēja piekļuvi kontiem.
+Tomēr uzbrukumu neizdevās veiksmīgi pabeigt, jo aplikācijas dati palika aizsargāti.
+Tā kā Tu izvēlējies personīgu kodu kalkulatoru, autentifikācijas dati bija pilnībā neatkarīgi no tīkla.
+Uzbrukuma mēģinājumi tika bloķēti, jo nebija iespējams pārtvert vai aizstāt kalkulatora kodus.
+Tā kā Tu izvēlējies USB autentifikācijas ierīci, piekļuves kontrole bija ļoti augstā līmenī.
+Uzbrucējiem neizdevās iegūt piekļuvi, jo autorizācija bija iespējama tikai ar fizisku ierīces pieslēgšanu.
+Rezultātā kuģis uz vairākām stundām zaudēja iespēju sazināties ar piekrastes dienestiem, radot nopietnus navigācijas un drošības riskus.
+Pateicoties apkalpes profesionalitātei un iepriekš sagatavotiem ārkārtas plāniem, kuģis veiksmīgi turpināja kursu līdz nākamajai ostai.
+Šis incidents ir klasificējams kā tīkla pakalpojumu atteices uzbrukums - "Denial of Service" jeb {u}DoS{/u}.
+Tā būtība ir padarīt sistēmu, serveri vai tīklu nepieejamu lietotājiem, pārpludinot to ar pārmērīgu datu vai pieprasījumu apjomu.
+Rezultātā sistēma vairs nespēj apstrādāt likumīgus pieprasījumus, sāk strādāt ļoti lēni vai pilnībā apstājas.
+Piemēram, iedomājies, ja veikala durvis bloķē 10 000 cilvēki, kuri rindā stāv priekšā. Rezultātā nākas ilgi rindā gaidīt.
+Šajā piemērā pārmērīgs pieprasījumu apjoms izraisīja servera pārkaršanu un vairākkārtēju restartēšanos, atstājot kuģi bez stabilas sakaru iespējas.
+Šis ir arī viens no visizplatītākajiem kiberuzbrukumu veidiem jūrā, sekojot aiz izpircējvīrusiem.
+Galvenās atziņas:
+1. - Daudzfaktoru autentifikācijai jābūt piemērotai arī bezsaistes vidēm.
+2. - Jūras apstākļos priekšroka dodama fiziskām autentifikācijas metodēm.
+3. - Ja tiek izmanotas digitālās metodes - svarīgas drošas alternatīvas.
+4. - Segmentēt kuģa tīklus, atdalot kritiskas operāciju sistēmas no ārējiem un citiem tīkliem.
+Šādi incidenti parāda, cik nozīmīgi ir izvēlēties atbilstošus drošības pasākumus, ne tikai uzticēties ērtākajiem risinājumiem.
+Kopumā šī daļa bija par {u}kiberhigiēnu{/u} un tās ietekmi uz incidentiem jūrniecībā.
+Kiberhigiēna ir paradumu un prakšu kopums, kas mums palīdz veidot un uzturēt drošu kibertelpu.
+Sākot ar kiberdrošības pasākumu ievērošanu, drošu paroļu izmantošanu un regulāru programmatūras atjaunināšanu-
+- un līdz pat sakārtotai fiziskajai videi, drošai ierīču glabāšanai un apdomīgai digitālo resursu pārvaldībai.
+Cik "tīri" būsim, tik droši būsim!
+Cerams kaut ko jaunu ieguvi!
+3. daļa pabeigta!
+Sveiks, topošais Jūrniek! {image=emoji/wave.png} Redzams, ka esi ieradies laikā.
+Esmu kapteinis Oto - šī kuģa lepns vadītājs. Un šodien... nu, šodien mums būs neliels piedzīvojums!
+Virpirms gan vēlos ar Tevi iepazīties! Kā Tevi sauc?
+Cerams [name] muļķības nesarakstīja {image=emoji/sweat.png}. Jebkurā gadījumā - spēles laikā ievadītā informācija no tās ārpus neizkļūs. Tā kā droši vari izpausties!
+Šodien Tu dosies man līdzi uz vienu no modernākajiem kuģiem Eiropā - "{color=#ff8335}BALTIJAS PĒRLE{/color}". Mēs to šeit saucam par Pērli.
+Tā tiek uzskatīta par tehnoloģisko brīnumu - aprīkota ar jaunākajām automatizācijas, navigācijas un komunikāciju sistēmām.
+Vismaz tā to reklamē apkārt. Raksta: "{i}kuģis nepārspējams drošībā{/i}". Bet... vai tiešām?
+Redzi - kiberdrošība pamazām kļūst par vienu no aktuālākajiem jūrniecības izaicinājumiem. Un diemžēl - arī par visvājāko punktu gana daudzos kuģos.
+Vadības, navigācijas, kartēšanas, dzinēju sistēmas un tīkli, arī apkalpes ierīces - itin visam ir savas ievainojamības. Mūs ieskaitot!
+Tieši tā - mēs runājam par {u}kiberdrošību{/u}. Šodienas kuģi ir kā peldoši datu centri. Un diemžēl arī kārdinošs mērķis uzbrucējiem, kas vien gaida izdevību ielauzties pa kādu digitālo "lūku".
+Vispirms gan vēlos, lai pats novērtē savas priekšzināšanas kiberdrošībā! Brīvi atbildi skalā no 1 līdz 10, kur 1 ir nekā nezinītis, bet 10 - drīzāk kapteinim pamācīs kas un kā.
+Cerams spēles gaitā iegūsi jaunas zināšanas un nostiprināsi esošās. Ā, un ja domā, ka absolūti neko nezini - būsi pārsteigts, cik daudz ko jau zinam, vien neapzinamies. Drīz redzēsi!
+Tu piedalīsies mācību programmā - simulācijā, kas ļaus Tev iziet cauri dažādiem kiberdrošības scenārijiem un uzdevumiem, kuri vairumā balstīti uz reāliem piemēriem.
+Es to saucu par "{color=#ff8335}Sea Safe{/color}" tūri.
+Tavā uzdevumā - iziet 3 spēles daļas, iejusties dažādās lomās, analizēt situācijas, pieņemt lēmumus un saprast, kāpēc kiberdrošība nav tikai IT cilvēku lieta.
+Iesaku daļas iziet pēc kārtas - secīgi varēsi iepazīties ar terminiem.
+Došu arī punktus, taču tos vien beigās uzzināsi! Vēlos, lai par tiem pārāk nedomā un atbildi tā, kā pats labāk domā.
+Un noteikti nebaidies kļūdīties - mēs te esam, lai mācītos un pārbaudītu paši {u}sevi{/u}. Kļūdīšanās ir daļa mācīšanās procesa!
+Ja kaut ko būsi palaidis garām, iepriekšējo tekstu var apskatīt sadaļā "Vēsture".
+Nu, tad saki, vai gatavs kāpt uz Pērles?
+-2 punkti
+Ha! Noticēji? Jokus pie malas - ejam!
+Vairs Tevi nemocīšu - šodienai pietiks!
+Kopā pa visām daļām esi ieguvis [points] punktus no 25 punktiem!
+Cepuri nost! Gaidu, kad nāksi mācīt mani! {image=emoji/clap.png}
+Ļoti labi! Izskatās, ka ar kiberdrošību esi kā uz Tu!
+Labs rezultāts, bet ir kur vēl tiekties!
+Būtu jāatkārto kāda daļa. Ir kur vēl tiekties!
+Atceries - kiberdrošība sākas nevis ar sistēmām, bet ar cilvēku - Tevi!
+Spēles gaitā varējām novērot, ka pat vismodernākais kuģis var nebūt drošs, ja to vājina cilvēks, kurš neapzinās kiberriskus.
+Tu esi pirmais aizsardzības līnijas posms. Tavas izvēles, gan virtuālās, gan reālās, ietekmē visu kuģa drošību.
+Ja kaut daļu no šeit redzētā aiznesīsi sev līdzi uz īstu kuģi, darba vidi vai ikdienas ierīcēm, tad mans mērķis būs izpildījies.
+Un, kas zin - varbūt tieši Tu nākotnē būsi tas, kurš palīdzēs novērst īstu incidentu. Apsveicu ar "{color=#ff8335}Sea Safe{/color}" tūres iziešanu!
+Liels paldies par Tavu iesaisti! Lai Tev droši ceļi - gan jūrā, gan kibertelpā.
+{i}Bon voyage!{/i}
+Pirms pavisam atvadāmies, man Tev ir viens neliels lūgums.
+Lai novērtētu un uzlabotu šo spēli un tās saturu, nepieciešams veltīt pāris minūtes un aizpildīt īsu aptauju. Tā ir anonīma un aizņems mazāk nekā 2 minūtes.
+Spied šeit, lai atvērtu aptauju: {color=#ff8335}{a=https://forms.gle/Qx4wbVYcDxNAFRRm8}Spēles aptauja{/a}{/color}
+Paldies!
