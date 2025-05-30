@@ -41,7 +41,7 @@ SeaSafe/
 
 - **Ren’Py** (versija 8.3.7): Python balstīts spēļu dzinējs
 - **Python** (Ren’Py iekšējā versija): spēles loģikas definēšana
-- Attēli: PNG formātā, no brīviem resursiem vai paša veidoti
+- Attēli: PNG un JPG formātā
 - Skaņas: MP3/OGG failu formātā
 
 ## Instalēšana
