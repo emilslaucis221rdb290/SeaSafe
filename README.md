@@ -25,13 +25,13 @@ Repozitorijs satur spēles pirmkodu un vizuālos elementus, kas nepieciešami, l
 ```
 SeaSafe/
 ├── game/
-│   ├── script.rpy           # Galvenais ievada fails
-│   ├── screens.rpy          # Lietotāja saskarnes ekrāni
+│   ├── script.rpy           # Sākuma fails
+│   ├── screens/             # Lietotāja saskarnes ekrāni
 │   ├── scenarios/           # Katras tematiskās daļas fails
-│   ├── images/              # Attēli, foni, emocijzīmes
+│   ├── images/              # Attēli, foni, emocijzīmes, ikonas
 │   ├── gui/                 # Grafiskās saskarnes elementi
 │   ├── audio/               # Fona mūzika, skaņas efekti
-│   └── ...                  # Citi faili
+│   └── ...                  # Citi faili un mapes
 ├── README.md                # Šis fails
 ├── options.rpy              # Spēles konfigurācija
 └── lint_report.txt          # Ren'Py Lint pārskats
@@ -39,7 +39,7 @@ SeaSafe/
 
 ## Izmantotās tehnoloģijas
 
-- **Ren’Py** (versija 8.3.7): Python balstīts spēļu dzinējs
+- **Ren’Py** (versija 8.3.7): Python balstīts spēļu dzinis
 - **Python** (Ren’Py iekšējā versija): spēles loģikas definēšana
 - Attēli: PNG un JPG formātā
 - Skaņas: MP3/OGG failu formātā
@@ -47,7 +47,6 @@ SeaSafe/
 ## Instalēšana
 
 Lai varētu spēli izmēģināt ar pirmkoda failiem, nepieciešams:
-- [Ren’Py dzinējs](https://www.renpy.org/latest.html) (8.3.7 vai jaunāka)
+- [Ren’Py spēļu dzinis](https://www.renpy.org/latest.html) (8.3.7 vai jaunāka)
 - Windows, macOS vai Linux sistēma
-
-Tālāk vajag lejupielādēt un instalēt aktuālo Ren'Py versiju, un klonēt repozitoriju izstrādājamo spēļu direktorijā.
+- Tālāk vajag klonēt repozitoriju izstrādājamo spēļu direktorijā.
