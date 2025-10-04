@@ -39,6 +39,11 @@ screen preferences():
 
             ## Additional vboxes of type "radio_pref" or "check_pref" can be
             ## added here, to add additional creator-defined preferences.
+            vbox:
+                style_prefix "pref"
+                label _("Valoda")
+                textbutton _("Latviešu") action Language(None)
+                textbutton _("Angļu") action Language("english")
 
         null height 60
 

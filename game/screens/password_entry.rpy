@@ -13,7 +13,7 @@ screen password_entry():
             hbox:
                 spacing 10
                 xalign 0.0
-                text "Lietotājvārds:"
+                text _("Lietotājvārds:")
                 frame:
                     xsize 400
                     ysize 60
@@ -23,7 +23,7 @@ screen password_entry():
             hbox:
                 spacing 10
                 xalign 0.0
-                text "Parole:"
+                text _("Parole:")
                 frame:
                     xsize 514
                     ysize 60
@@ -31,7 +31,7 @@ screen password_entry():
                     input value VariableInputValue("password") length 20 mask "*" color "#000"
             frame:
                 xalign 0.5
-                textbutton "Reģistrēties":
+                textbutton _("Reģistrēties"):
                     padding (10,5,10,5)
                     xalign 0.5
                     action Return()

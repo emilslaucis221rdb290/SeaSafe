@@ -19,59 +19,110 @@ screen google():
     key "mouseup_1" action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
     imagemap at appear_dissolve:
         ground "pc_google"
-        hotspot (712, 619, 178, 38):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://accounts.google.com/AccountChooser?Email=es@gmail.com&continue=https://myaccount.google.com/alert/nt/1663821813000?rfn%3D325%26rfnc%3D1%26eid%3D3870045634599354594%26et%3D0") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
-        hotspot (674, 699, 254, 11):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://myaccount.google.com/notifications") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
+
+        if renpy.game.preferences.language == "english":
+            hotspot (721, 661, 154, 43):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://accounts.google.com/AccountChooser?Email=es@gmail.com&continue=https://myaccount.google.com/alert/nt/1663821813000?rfn%3D325%26rfnc%3D1%26eid%3D3870045634599354594%26et%3D0") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (665, 746, 270, 12):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://myaccount.google.com/notifications") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+        else:
+            hotspot (712, 619, 178, 38):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://accounts.google.com/AccountChooser?Email=es@gmail.com&continue=https://myaccount.google.com/alert/nt/1663821813000?rfn%3D325%26rfnc%3D1%26eid%3D3870045634599354594%26et%3D0") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (674, 699, 254, 11):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("google", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://myaccount.google.com/notifications") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
 
 screen doc():
     key "mouseup_1" action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
     imagemap at appear_dissolve:
         ground "pc_doc"
-        hotspot (456, 490, 376, 180):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "http://drive--google.com/d/6374pcjdsob83987cidkqwlsl9134") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
-        hotspot (437, 794, 81, 34):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "http://drive--google.com/d/6374pcjdsob83987cidkqwlsl9134") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
+
+        if renpy.game.preferences.language == "english":
+            hotspot (461, 485, 376, 182):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "http://drive--google.com/d/6374pcjdsob83987cidkqwlsl9134") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (439, 794, 78, 33):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "http://drive--google.com/d/6374pcjdsob83987cidkqwlsl9134") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+        else:
+            hotspot (456, 490, 376, 180):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "http://drive--google.com/d/6374pcjdsob83987cidkqwlsl9134") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (437, 794, 81, 34):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("doc", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "http://drive--google.com/d/6374pcjdsob83987cidkqwlsl9134") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
 
 screen vid():
     key "mouseup_1" action [Hide("displayURLScreen", transition=dissolve), Hide("vid", transition=dissolve), Return()]
     imagemap at appear_dissolve:
         ground "pc_vid"
-        hotspot (538, 444, 191, 42):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("vid", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://vid-eds.web.app/Autentificet") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
+
+        if renpy.game.preferences.language == "english":
+            hotspot (559, 460, 85, 42):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("vid", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://vid-eds.web.app/Autentificet") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+        else:
+            hotspot (538, 444, 191, 42):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("vid", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://vid-eds.web.app/Autentificet") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
 
 screen paypal():
     key "mouseup_1" action [Hide("displayURLScreen", transition=dissolve), Hide("paypal", transition=dissolve), Return()]
     imagemap at appear_dissolve:
         ground "pc_paypal"
-        hotspot (239, 559, 437, 14):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("paypal", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.palpay.com") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
+
+        if renpy.game.preferences.language == "english":
+            hotspot (232, 559, 468, 16):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("paypal", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.palpay.com") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+        else:
+            hotspot (239, 559, 437, 14):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("paypal", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.palpay.com") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
 
 screen dropbox():
     key "mouseup_1" action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
     imagemap at appear_dissolve:
         ground "pc_dropbox"
-        hotspot (691, 555, 155, 46):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/buy") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
-        hotspot (812, 635, 107, 15):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/help/space/get-more-space") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
-        hotspot (735, 763, 144, 16):
-            action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
-            hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/business") 
-            unhovered Hide("displayURLScreen",transition=dissolve)
+
+        if renpy.game.preferences.language == "english":
+            hotspot (681, 552, 173, 44):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/buy") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (656, 631, 120, 20):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/help/space/get-more-space") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (757, 758, 162, 16):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/business") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+        else:
+            hotspot (691, 555, 155, 46):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/buy") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (812, 635, 107, 15):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/help/space/get-more-space") 
+                unhovered Hide("displayURLScreen",transition=dissolve)
+            hotspot (735, 763, 144, 16):
+                action [Hide("displayURLScreen", transition=dissolve), Hide("dropbox", transition=dissolve), Return()]
+                hovered Show("displayURLScreen",transition=dissolve,displayurl = "https://www.dropbox.com/business") 
+                unhovered Hide("displayURLScreen",transition=dissolve)

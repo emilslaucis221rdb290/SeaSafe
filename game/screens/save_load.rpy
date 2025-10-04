@@ -73,7 +73,7 @@ screen file_slots(title):
                     ## https://www.fabriziomusacchio.com/blog/2021-08-15-strftime_Cheat_Sheet/
                     text FileTime(slot,
                             format=_("{#file_time}%A, %B %d %Y, %H:%M"),
-                            empty=_("empty slot")):
+                            empty=_("tukšs")):
                         style "slot_time_text"
 
                     text FileSaveName(slot) style "slot_name_text"

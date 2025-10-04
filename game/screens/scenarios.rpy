@@ -1,9 +1,9 @@
 default hidden_buttons = set()
 
 default scenario_descriptions = {
-    1: "Novirze kursā",
-    2: "Uz āķa",
-    3: "Drošības plaisa"
+    1: _("Novirze kursā"),
+    2: _("Uz āķa"),
+    3: _("Drošības plaisa")
 }
 
 screen displayTextScreen(displaytext):  
