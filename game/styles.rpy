@@ -27,7 +27,7 @@ define gui.text_font = gui.preference("font", "NationalPark-Bold.ttf")
 # The text font for buttons
 define gui.interface_text_font = gui.preference("interface_font", "NationalPark-Bold.ttf")
 # The default size of in-game text
-define gui.text_size = gui.preference("size", 35)
+define gui.text_size = gui.preference("size", 32)
 # The font for character names
 define gui.name_text_font = gui.preference("name_font", "NationalPark-Bold.ttf")
 # The size for character names

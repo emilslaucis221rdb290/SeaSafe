@@ -14,7 +14,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("Sea Safe")
+define config.name = "Sea Safe"
 
 ## A short name for the game used for executables and directories in the built
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
@@ -42,7 +42,7 @@ define config.save_directory = None
 
 ## The version of the game.
 
-define config.version = "1.1"
+define config.version = "1.3"
 
 
 ## Sounds and music ############################################################
@@ -155,9 +155,9 @@ define config.default_voice_volume = 0.5
 
 ## The number of auto save slots Ren'Py will save to before it
 ## starts overwriting the first one
-define config.autosave_slots = 3
+define config.autosave_slots = 2
 ## Same thing, but for quick save
-define config.quicksave_slots = 3
+define config.quicksave_slots = 2
 
 ## Build configuration #########################################################
 ##
@@ -228,7 +228,6 @@ init python:
 ## by a slash.
 
 # define build.itch_project = "renpytom/test-project"
-
 
 init python:
     config.allow_skipping = False

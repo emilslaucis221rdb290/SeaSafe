@@ -1,6 +1,5 @@
 define nvl_mode = "phone"  ##Allow the NVL mode to become a phone conversation
-define MC_Name = "Es" ##The name of the main character, used to place them on the screen
-define mail = "E-pasts"
+define mail = "Gmail"
 define unknown = " "
 
 init -1 python:
@@ -88,19 +87,19 @@ screen nvl_phonetext(dialogue):
                     if d.current:
                         at message_narrator
         else:
-            if d.who == MC_Name:
+            if d.who == name:
                 $ message_frame = "phone_send_frame.png"
             else:
                 $ message_frame = "phone_received_frame.png"
 
             hbox:
                 spacing 10
-                if d.who == MC_Name:
+                if d.who == name:
                     box_reverse True
                 
                 #If this is the first message of the character, show an icon
                 if previous_d_who != d.who:
-                    if d.who == MC_Name:
+                    if d.who == name:
                         $ message_icon = "phone_send_icon.png"
                     if d.who == mail:
                         $ message_icon = "email_notification.png"
@@ -116,8 +115,12 @@ screen nvl_phonetext(dialogue):
 
                 vbox:
                     yalign 1.0
-                    if d.who != MC_Name and previous_d_who != d.who:
+                    if d.who != name and previous_d_who != d.who:
                         text d.who
+                    if d.who == name and previous_d_who != d.who:
+                        text d.who:
+                            xalign 1.0
+                    
 
                     frame:
                         padding (20,20)
@@ -127,7 +130,7 @@ screen nvl_phonetext(dialogue):
                         xsize 350
 
                         if d.current:
-                            if d.who == MC_Name:
+                            if d.who == name:
                                 at message_appear(1)
                             else:
                                 at message_appear(-1)
@@ -139,7 +142,7 @@ screen nvl_phonetext(dialogue):
                             slow_cps False
                             
 
-                            if d.who == MC_Name :
+                            if d.who == name:
                                 color "#FFF"
                                 text_align 1.0
                                 xpos -580

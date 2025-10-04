@@ -4,8 +4,8 @@ default points = 0
 default name = ""
 default rating = 1
 
-define e = Character("Kapteinis")
-define t = Character("Es",color="#387238")
+define e = Character(_("Kapteinis"))
+define t = Character("[name]",color="#387238")
 define circleirisout = ImageDissolve("imagedissolve circleiris.png", 1.0, 8)
 define teleport = ImageDissolve("imagedissolve teleport.png", 1.0, 0)
 define circleirisin = ImageDissolve("imagedissolve circleiris.png", 1.0, 8, reverse=True)
@@ -35,17 +35,17 @@ screen cybersecurity_scale():
             xalign 0.5
             yalign 0.5
 
-            text "Velc, lai novērtētu savas kiberdrošības priekšzināšanas!" xalign 0.5
+            text _("Velc, lai novērtētu savas kiberdrošības priekšzināšanas!") xalign 0.5
             bar: 
                 xalign 0.5
                 value FieldValue(store,"rating", range= 9.0, offset = 1.0) 
                 xmaximum 600
                 style "slider"
-            text "Tavs novērtējums: [int(rating)]"xalign 0.5
+            text _("Tavs novērtējums: [int(rating)]")xalign 0.5
             frame:
                 xalign 0.5
                 padding (10,10,10,10)
-                textbutton "Apstiprināt" action Return()
+                textbutton _("Apstiprināt") action Return()
 
 label start:
     $ points = 0
@@ -66,7 +66,14 @@ label start:
     e "Esmu kapteinis Oto - šī kuģa lepns vadītājs. Un šodien... nu, šodien mums būs neliels piedzīvojums!"
     e "Virpirms gan vēlos ar Tevi iepazīties! Kā Tevi sauc?"
 
-    $ name = renpy.input("Vārds:", length = 15)
+    $ name = ""
+    while not name.strip():
+        show captain at center with move
+        $ name = renpy.input(_("Vārds:"), length=15)
+        if not name.strip():
+            show captain surprised at left with move
+            e "Noteikti kādam vārdam jābūt! Kas Tu - spoks?!"
+
     show captain happy at right with move
 
     e "Cerams [name] muļķības nesarakstīja {image=emoji/sweat.png}. Jebkurā gadījumā - spēles laikā ievadītā informācija no tās ārpus neizkļūs. Tā kā droši vari izpausties!"
@@ -131,7 +138,7 @@ label start:
 label end:
     scene bg ocean bright with dissolve
     pause 0.5
-    show screen title_textbox("{color=#ff8335}Sea Safe{/color} tūre pabeigta!") with dissolve
+    show screen title_textbox(_("{color=#ff8335}Sea Safe{/color} tūre pabeigta!")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     show sun at sun_drop
@@ -181,7 +188,7 @@ label end:
 
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("Spēle pabeigta") with dissolve
+    show screen title_textbox(_("Spēle pabeigta")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     return
