@@ -1,12 +1,71 @@
-# SeaSafe
-**Versija:** 1.1  
-**Autors:** Emīls Laucis
-**Studiju programma:** Informācijas tehnoloģija  
-**Izglītības iestāde:** Rīgas Tehniskā universitāte (RTU), Datorzinātnes, informācijas tehnoloģijas un enerģētikas fakultāte (DITEF)  
-**Projekts:** Bakalaura darba "Kiberdrošības kompetenču novērtēšana un pilnveidošana jūrniecības jomā" praktiskā daļa  
-**Datums:** 2025. gads  
+# Sea Safe – Interactive Maritime Cybersecurity Training Game  
+**Version:** 1.3  
+**Author:** Emīls Laucis  
+**Institution:** Riga Technical University (RTU), Faculty of Computer Science, Information Technology and Energy (DITEF)  
+**Project:** Sea Safe: Designing a Serious Game to Develop Maritime Cybersecurity Awareness  
+**Year:** 2025  
+
+
+## Description
+
+**Sea Safe** is an interactive 2D educational game developed as a **serious game** to enhance and assess maritime cadets’ cybersecurity competences. Through scenario-based learning, the player experiences **realistic maritime cyber incidents** and must make decisions according to best cybersecurity practices.
+
+The game is built in **visual novel** style using the **Ren’Py** engine.
+
+At the end of the game, players are invited to complete an **anonymous survey** to evaluate the tool and reflect on their knowledge gain.
+
+[Link to survey](https://forms.gle/DhiMFYcQZFesou3B7)
+
+The repository includes the **source code** and **visual assets** required to clone and run the game in the Ren’Py environment.
+
+
+## Repository Structure
+
+```
+SeaSafe/
+├── game/
+│ ├── script.rpy           # Main game script and flow
+│ ├── screens/             # User interface screens
+│ ├── scenarios/           # Thematic scenario scripts
+│ ├── images/              # Backgrounds, characters, icons
+│ ├── gui/                 # UI components and styles
+│ ├── audio/               # Background music and sound effects
+│ └── ...
+├── README.md              # This file
+├── options.rpy            # Configuration settings
+└── lint_report.txt        # Ren’Py Lint report
+```
+
+## Technologies Used
+
+- **Ren’Py (v8.4.1)**: Python-based visual novel engine  
+- **Python**: game logic and interactivity  
+- Images: PNG, JPG  
+- Audio: MP3, OGG  
+
+
+## Installation
+
+To run the *Sea Safe* prototype locally:
+
+1. Install [**Ren’Py 8.4.1**](https://www.renpy.org/latest.html) or newer  
+2. Clone the repository into your Ren’Py projects directory  
+3. Launch Ren’Py and select the *Sea Safe* project  
+4. Run the game or build a distributable version  
+
+**Supported systems:** Windows, macOS, Linux
+
 
 ---
+
+
+# Sea Safe – Interaktīva jūrniecības kiberdrošības izglītojošā spēle
+
+**Versija:** 1.3
+**Autors:** Emīls Laucis
+**Izglītības iestāde:** Rīgas Tehniskā universitāte (RTU), Datorzinātnes, informācijas tehnoloģijas un enerģētikas fakultāte (DITEF)  
+**Projekts:** Sea Safe: Designing a Serious Game to Develop Maritime Cybersecurity Awareness 
+**Datums:** 2025. gads  
 
 ## Apraksts
 
@@ -39,14 +98,15 @@ SeaSafe/
 
 ## Izmantotās tehnoloģijas
 
-- **Ren’Py** (versija 8.3.7): Python balstīts spēļu dzinis
-- **Python** (Ren’Py iekšējā versija): spēles loģikas definēšana
+- **Ren’Py** (versija 8.4.1): Python balstīts spēļu dzinis
+- **Python** : spēles loģikas un interaktīvo elementu izstrādei
 - Attēli: PNG un JPG formātā
 - Skaņas: MP3/OGG failu formātā
 
 ## Instalēšana
 
 Lai varētu spēli izmēģināt ar pirmkoda failiem, nepieciešams:
-- [Ren’Py spēļu dzinis](https://www.renpy.org/latest.html) (8.3.7 vai jaunāka)
-- Windows, macOS vai Linux sistēma
-- Tālāk vajag klonēt repozitoriju izstrādājamo spēļu direktorijā.
+1. [Ren’Py spēļu dzinis](https://www.renpy.org/latest.html) (8.4.1 vai jaunāka)
+2. Klonēt repozitoriju savā Ren’Py projektu direktorijā
+3. Atvērt Ren’Py un izvēlēties projektu Sea Safe
+4. Palaist spēli vai izveidot izplatāmo (distributable) versiju
