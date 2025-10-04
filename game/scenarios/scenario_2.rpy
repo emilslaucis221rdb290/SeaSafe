@@ -1,7 +1,7 @@
 default correct_count = 0
 default clicked = [False] * 15
 
-define p_nvl = Character("E-pasts", kind=nvl, callback=Phone_ReceiveSound)
+define p_nvl = Character("Gmail", kind=nvl, callback=Phone_ReceiveSound)
 
 label scenario_2:
 
@@ -10,7 +10,7 @@ label scenario_2:
 
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("2. daļa - Uz āķa!") with dissolve
+    show screen title_textbox(_("2. daļa - Uz āķa!")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     show bg deck with dissolve

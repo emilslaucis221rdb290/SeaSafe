@@ -13,7 +13,7 @@ screen title_textbox(text):
 label scenario_1:
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("1. daļa - Novirze kursā") with dissolve
+    show screen title_textbox(_("1. daļa - Novirze kursā")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     scene bg bridge with dissolve

@@ -2,26 +2,26 @@ init python:
     import re
     def is_strong_password(password):
         if len(password) < 8:
-            return "Parolei jāsatur vismaz 8 zīmes."
+            return _("Parolei jāsatur vismaz 8 zīmes.")
         for i in range(len(password) - 1):
             if password[i] == password[i+1]:
-                return "Parolē nedrīkst būt divi vienādi simboli pēc kārtas."
+                return _("Parolē nedrīkst būt divi vienādi simboli pēc kārtas.")
         if not re.search(r"[A-Z]", password):
-            return "Jābūt vismaz vienam lielajam burtam."
+            return _("Jābūt vismaz vienam lielajam burtam.")
 
         if not re.search(r"[a-z]", password):
-            return "Jābūt vismaz vienam mazajam burtam."
+            return _("Jābūt vismaz vienam mazajam burtam.")
 
         if not re.search(r"[0-9]", password):
-            return "Jābūt vismaz vienam skaitlim."
+            return _("Jābūt vismaz vienam skaitlim.")
 
         if not re.search(r"[\$!@#%^&*()_\-+=\[\]{};':\"\\|,.<>/?]", password):
-            return "Jābūt vismaz vienam speciālajam simbolam."
+            return _("Jābūt vismaz vienam speciālajam simbolam.")
         if " " in password:
-            return "Parolē nedrīkst būt atstarpes."
+            return _("Parolē nedrīkst būt atstarpes.")
         return True
 
-define e_nvl = Character("Es", kind=nvl, callback=Phone_SendSound)
+define e_nvl = Character("[name]", kind=nvl, callback=Phone_SendSound)
 define h_nvl = Character(" ", kind=nvl, callback=Phone_ReceiveSound)
 define config.adv_nvl_transition = None
 define config.nvl_adv_transition = Dissolve(0.3)
@@ -71,7 +71,7 @@ label scenario_3:
 
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("3. daļa - Drošības plaisa") with dissolve
+    show screen title_textbox(_("3. daļa - Drošības plaisa")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     scene bg inside with dissolve
@@ -438,7 +438,7 @@ label physical_intro:
     jump incident_1
 
 label sms_input:
-    $ answer = renpy.input("Ko atbildēsi?", length = 20)
+    $ answer = renpy.input(_("Ko atbildēsi?"), length = 20)
     if answer.lower().strip() == "cancel1212":
         $ points -= 2
         jump dfa_text
@@ -460,7 +460,7 @@ label sms_input:
 label incident_1:
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("Incidents: Ievazāts vīruss") with dissolve
+    show screen title_textbox(_("Incidents: Ievazāts vīruss")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     scene bg inside with dissolve
@@ -529,7 +529,7 @@ label incident_1:
 label incident_2:
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("Incidents: Slēptais vīruss") with dissolve
+    show screen title_textbox(_("Incidents: Slēptais vīruss")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     scene bg inside with dissolve
@@ -582,7 +582,7 @@ label incident_2:
 label incident_3:
     scene black with dissolve
     pause 0.5
-    show screen title_textbox("Incidents: Sakaru traucējumi") with dissolve
+    show screen title_textbox(_("Incidents: Sakaru traucējumi")) with dissolve
     pause 1.5
     hide screen title_textbox with dissolve
     scene bg bridge with dissolve
