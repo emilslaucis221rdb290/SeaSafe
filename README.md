@@ -1,8 +1,12 @@
 # Sea Safe – Interactive Maritime Cybersecurity Training Game  
-**Version:** 1.3  
+**Version:** 1.3 
+
 **Author:** Emīls Laucis  
+
 **Institution:** Riga Technical University (RTU), Faculty of Computer Science, Information Technology and Energy (DITEF)  
+
 **Project:** The game was developed as part of the bachelor’s thesis titled ‘Sea Safe: Designing a Serious Game to Develop Maritime Cybersecurity Awareness’ and was further enhanced within the framework of the project ‘Enhancing Maritime Cybersecurity Resilience and Training’ (Project No. RTU-PA-2024/1-0061). This initiative was implemented under the European Union Recovery and Resilience Mechanism funded project No. 5.2.1.1.i.0/2/24/I/CFLA/003, ‘Implementation of consolidation and management changes at Riga Technical University, Liepaja University, Rezekne Academy of Technologies, Latvian Maritime Academy, and Liepaja Maritime College for Excellence in Higher Education, Science and Innovation.’
+
 **Year:** 2025  
 
 
